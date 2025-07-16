@@ -1,11 +1,3 @@
-"""
-Supplier Segmentation Visualization Dashboard
-Interactive and static visualizations for supplier classification analysis
-
-This module creates comprehensive visualizations to support strategic
-supplier management decisions and communicate segmentation results.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
