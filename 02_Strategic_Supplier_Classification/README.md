@@ -155,7 +155,6 @@ Total              42       100         337          624         17
 │   └── visualization_dashboard.py  # Results visualization
 ├── data_samples/
 │   ├── sample_supplier_data.csv     # Anonymized sample dataset
-│   └── scoring_results_example.csv # Example classification outputs
 └── presentations/
     └── methodology_overview.pdf    # Executive summary presentation
 ```
