@@ -94,7 +94,7 @@
 ```
 EHM Trend Analysis Dashboard
 ├── Overall Trend View
-├── Material Group Analysis (WWMG, CCG)
+├── Material Group Analysis
 ├── Individual Planner Tracking
 ├── Coordinator Overview
 ├── Top Rankings & Alerts
@@ -107,14 +107,6 @@ EHM Trend Analysis Dashboard
 ```
 01_Supply_Chain_EHM_Analysis/
 ├── README.md                 # This documentation
-├── documentation/
-│   ├── business_requirements.md
-│   ├── technical_specifications.md
-│   └── user_guide.md
-├── visualizations/
-│   ├── dashboard_screenshots/
-│   ├── trend_analysis_examples.png
-│   └── before_after_comparison.png
 ├── sample_code/
 │   ├── data_processing_example.py
 │   └── visualization_logic.py
