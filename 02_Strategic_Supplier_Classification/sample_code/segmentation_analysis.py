@@ -1,11 +1,3 @@
-"""
-Supplier Segmentation Analysis
-Advanced analytics for strategic supplier classification insights
-
-This module provides detailed analysis capabilities for understanding
-supplier segmentation patterns and business insights.
-"""
-
 import pandas as pd
 import numpy as np
 from scipy import stats
