@@ -1,11 +1,3 @@
-"""
-Strategic Supplier Classification - Scoring Model Implementation
-Replicates the weighted scoring algorithm used for supplier segmentation
-
-This implementation demonstrates the mathematical model used to classify
-1,120+ suppliers across multiple business units with customized weighting schemes.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
