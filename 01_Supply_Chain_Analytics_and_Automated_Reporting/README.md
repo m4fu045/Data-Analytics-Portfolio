@@ -1,14 +1,14 @@
 # Supply Chain Analytics & Automated Reporting
 *Component Health Monitoring Dashboard*
 
-## 📋 Project Overview
+## Project Overview
 
 **Industry:** Fortune 500 Technology Hardware Manufacturing  
 **Duration:** July 2021 - August 2021  
 **Role:** Supply Chain Data Analyst
 **Tools:** Business Intelligence Software, Excel, Data Visualization  
 
-## 🎯 Business Challenge
+## Business Challenge
 
 ### Pain Points Identified:
 - **Time-consuming:** Manual weekly reporting consuming 1+ hours of planner time
@@ -21,7 +21,7 @@
 - Delayed response to supply chain issues
 - Inconsistent reporting standards across different planners
 
-## 💡 Solution Design
+## Solution Design
 
 ### Objectives:
 1. **Accelerate Workflow:** Reduce planners' manual reporting time
@@ -35,12 +35,12 @@
 - **Interactive Features:** Dynamic filters for planners, materials, and time periods
 - **Automated Refresh:** Scheduled data updates eliminating manual intervention
 
-## 📊 Key Features Implemented
+## Key Features Implemented
 
 ### 1. **Multi-dimensional Trend Analysis**
-- **By Date:** Overall EHM tracking trends with priority level breakdown
+- **By Date:** Overall tracking trends with priority level breakdown
 - **By Market:** Automotive, Communications, Enterprise Systems, Industrial, Personal Electronics
-- **By Material Group:** WWMG and CCG category analysis
+- **By Material Group:** Group A and B category analysis
 
 ### 2. **Dynamic Filtering System**
 - **Planner Selection:** Individual planner performance tracking
@@ -57,11 +57,11 @@
 - **Market-specific Views:** Industry segment analysis (Industrial, Automotive)
 
 ### 4. **Alert and Monitoring System**
-- **Plan Late Drop Down Lists:** ESD planning status tracking
+- **Plan Late Drop Down Lists:** Planning status tracking
 - **TreeMap Visualizations:** Material hierarchy and volume representation
 - **Pie Chart Analytics:** Distribution analysis by various dimensions
 
-## 📈 Business Impact & Results
+## Business Impact & Results
 
 ### Quantified Improvements:
 - **100% Time Reduction:** From 1+ hours to automated real-time updates
@@ -73,9 +73,9 @@
 - **Scalability:** Consistent methodology across all planners and markets
 - **Standardization:** Unified reporting framework across business units
 - **Proactive Management:** Early identification of supply chain issues
-- **Data-driven Insights:** Enhanced visibility into EHM trends and patterns
+- **Data-driven Insights:** Enhanced visibility into trends and patterns
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Data Sources:
 - Component health monitoring system data
@@ -92,7 +92,7 @@
 
 ### Dashboard Architecture:
 ```
-EHM Trend Analysis Dashboard
+Trend Analysis Dashboard
 ├── Overall Trend View
 ├── Material Group Analysis
 ├── Individual Planner Tracking
@@ -101,7 +101,7 @@ EHM Trend Analysis Dashboard
 └── Market-specific Analysis
 ```
 
-## 📁 Project Structure
+## Project Structure
 *Note: Due to confidentiality agreements, actual data files are not included*
 
 ```
@@ -110,11 +110,10 @@ EHM Trend Analysis Dashboard
 ├── sample_code/
 │   ├── data_processing_example.py
 │   └── visualization_logic.py
-└── presentations/
-    └── project_summary.pdf
+└── Supply_Chain_Analytics_and_Automated_Reporting_Summary.pdf
 ```
 
-## 🎯 Key Learnings
+## Key Learnings
 
 ### Technical Skills Developed:
 - **Business Intelligence:** Spotfire dashboard development and optimization
