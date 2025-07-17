@@ -3,10 +3,10 @@
 
 ## Project Overview
 
-**Industry:** Fortune 500 Technology Hardware Manufacturing  
-**Duration:** July 2021 - August 2021  
-**Role:** Supply Chain Data Analyst
-**Tools:** Business Intelligence Software, Excel, Data Visualization  
+- **Industry:** Fortune 500 Technology Hardware Manufacturing
+- **Duration:** July 2021 - August 2021
+- **Role:** Supply Chain Data Analyst
+- **Tools:** Business Intelligence Software, Excel, Data Visualization  
 
 ## Business Challenge
 
