@@ -31,7 +31,7 @@ Data Analyst with **supply chain management background** and currently pursuing 
 - **Impact:** Achieved balanced supplier distribution across strategic segments
 - **Key Features:** Custom weighting by business unit, quantitative + qualitative criteria, automated scoring
 
-### [03. Customer Behavior Analytics & Prediction](./03_Customer_Engagement_Analytics)
+### [03. Customer Engagement Analytics - Dynamic Radar System](./03_Customer_Engagement_Analytics)
 **Technologies:** Python, Customer Segmentation, Predictive Analytics  
 **Industry:** Pharmaceutical
 
