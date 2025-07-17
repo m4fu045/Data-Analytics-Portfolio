@@ -1,6 +1,6 @@
 # Customer Engagement Analytics - Dynamic Radar System
 
-## 📋 Project Overview
+## Project Overview
 
 This project demonstrates a comprehensive customer engagement analytics solution developed for a pharmaceutical company. The system implements a dynamic engagement radar that proactively identifies customer behaviors, tracks campaign performance, and optimizes marketing strategies in real-time.
 
@@ -8,7 +8,7 @@ This project demonstrates a comprehensive customer engagement analytics solution
 **Role:** Data Analyst (Intern)  
 **Industry:** Fortune 500 Pharmaceutical/Healthcare  
 
-## 🎯 Business Challenge
+## Business Challenge
 
 The pharmaceutical company needed to:
 - Improve physician engagement and conversion rates
@@ -16,14 +16,14 @@ The pharmaceutical company needed to:
 - Track and optimize multi-channel marketing campaigns
 - Provide real-time insights for strategic decision-making
 
-## 🔧 Technical Stack
+## Technical Stack
 
 - **Programming:** Python
 - **Data Processing:** Excel
 - **Visualization:** Tableau
 - **Data Source:** Internal sales and marketing databases
 
-## 📊 Key Deliverables
+## Key Deliverables
 
 ### 1. Dynamic Engagement Radar System
 - **Multi-dimensional Analysis:** Tracks physician engagement across efficacy, safety, and efficiency metrics
@@ -40,7 +40,7 @@ The pharmaceutical company needed to:
 - **Engagement Scoring:** Quantifies physician interest and readiness
 - **Targeted Recommendations:** Prioritizes high-value prospects for outreach
 
-## 📈 Business Impact
+## Business Impact
 
 ### Quantifiable Results
 - **Lead Generation:** Identified 300+ high-potential physicians for targeted outreach
@@ -52,7 +52,7 @@ The pharmaceutical company needed to:
 - **Resource Optimization:** Focused marketing spend on highest-converting channels
 - **Scalable Framework:** Created reusable methodology for future campaigns
 
-## 🔍 Key Analytical Insights
+## Key Analytical Insights
 
 ### 1. Engagement Pattern Analysis
 - **Seasonal Trends:** Identified quarterly engagement fluctuations
@@ -69,7 +69,7 @@ The pharmaceutical company needed to:
 - **Performance Benchmarking:** Established KPI baselines for future campaigns
 - **Predictive Modeling:** Early warning system for engagement decline
 
-## 📋 Dashboard Features
+## Dashboard Features
 
 ### Real-time KPI Monitoring
 - **Engagement Metrics:** Open rates, click-through rates, event attendance
@@ -81,7 +81,7 @@ The pharmaceutical company needed to:
 - **Trend Analysis:** Quarter-over-quarter performance comparison
 - **Drill-down Capabilities:** Individual physician engagement history
 
-## 🔄 Methodology
+## Methodology
 
 ### 1. Data Collection & Preparation
 - Consolidated multi-source data (CRM, email platforms, event systems)
@@ -98,7 +98,7 @@ The pharmaceutical company needed to:
 - **Alert:** Declining engagement requiring intervention
 - **Potential:** Untapped prospects with growth indicators
 
-## 📊 Sample Metrics
+## Sample Metrics
 
 ### Engagement Categories
 - **Total Physicians Analyzed:** 18,246
@@ -112,7 +112,7 @@ The pharmaceutical company needed to:
 - **Penetration Metrics:** Q3 vs Q2 comparative analysis
 - **Alert Threshold:** Automated triggers for engagement drops
 
-## 💡 Key Learnings
+## Key Learnings
 
 ### Data-Driven Insights
 - **Content Strategy:** Academic content outperforms promotional materials
@@ -124,26 +124,26 @@ The pharmaceutical company needed to:
 - **Proactive Intervention:** Address declining engagement before complete disengagement
 - **Resource Allocation:** Prioritize high-conversion channels and audiences
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - **Machine Learning Integration:** Predictive modeling for engagement forecasting
 - **Real-time Personalization:** Dynamic content recommendations
 - **Advanced Attribution:** Multi-touch attribution modeling
 - **Automated Workflows:** Trigger-based campaign optimization
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Customer_Engagement_Analytics/
 ├── README.md
-├── project_overview.pdf
+├── Customer_Engagement_Analytics_Presentation.pdf
 └── documentation/
     ├── methodology.md
     ├── data_dictionary.md
     └── business_requirements.md
 ```
 
-## 🏆 Project Highlights
+## Project Highlights
 
 This project showcases advanced analytics capabilities in:
 - **Customer Segmentation:** Large-scale physician profiling and categorization
