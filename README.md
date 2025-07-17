@@ -19,25 +19,25 @@ Data Analyst with **supply chain management background** and currently pursuing 
 
 ## Featured Projects
 
-### 🔗 [01. Supply Chain Analytics & Automated Reporting](./01_Supply_Chain_EHM_Analysis)
+### [01. Supply Chain Analytics & Automated Reporting](./01_Supply_Chain_Analytics_and_Automated_Reporting)
 **Technologies:** Spotfire, Data Visualization, Process Automation  
-**Industry:** Semiconductor (Texas Instruments)
+**Industry:** Semiconductor
 
 - **Challenge:** Manual weekly reporting consuming 1+ hours, inflexible parameters, lagged updates
 - **Solution:** Developed automated trend analysis dashboard with dynamic filtering capabilities
 - **Impact:** Reduced manual workload by 100%, enabled real-time data analysis for planners
 - **Key Features:** Interactive filters, automated data refresh, multi-dimensional trend analysis
 
-### 🔗 [02. Strategic Supplier Classification Model](./02_Supplier_Segmentation)
+### [02. Strategic Supplier Classification Model](./02_Strategic_Supplier_Classification)
 **Technologies:** Python, Mathematical Modeling, Data Integration  
-**Industry:** Technology Hardware (HP)
+**Industry:** Leading PC and Printing Technology Company
 
-- **Challenge:** Classify 1,120 suppliers across multiple business units with standardized methodology
+- **Challenge:** Classify 1,000+ suppliers across multiple business units with standardized methodology
 - **Solution:** Developed weighted scoring algorithm considering 7 criteria (spend, dependency, risk, etc.)
 - **Impact:** Achieved balanced supplier distribution across strategic segments
 - **Key Features:** Custom weighting by business unit, quantitative + qualitative criteria, automated scoring
 
-### 🔗 [03. Customer Behavior Analytics & Prediction](./03_Customer_Engagement_Analytics)
+### [03. Customer Behavior Analytics & Prediction](./03_Customer_Engagement_Analytics)
 **Technologies:** Python, Customer Segmentation, Predictive Analytics  
 **Industry:** Pharmaceutical
 
@@ -46,30 +46,25 @@ Data Analyst with **supply chain management background** and currently pursuing 
 - **Impact:** Projected 300+ additional memberships, improved customer experience personalization
 - **Key Features:** Real-time monitoring, predictive alerts, omnichannel integration
 
-### 🔗 [04. Automotive Industry Case Studies](./04_Automotive_Case_Studies)
-**Technologies:** Python, Tableau, Supply Chain Analytics  
-**Industry Application:** Automotive
-
-- **Dealer Performance Analysis:** Multi-dimensional scoring model for dealer segmentation
-- **Parts Supply Chain Optimization:** Demand forecasting and inventory management
-- **Customer Lifecycle Management:** Purchase intent prediction and service optimization
-
 ---
 
 ## Education
 
-**Master of Information and Data Science (MIDS)**  
-*UC Berkeley* | 2024 - Present (1st Semester)
+**Master of Information and Data Science**  
+*UC Berkeley* | 2024 - Present
 
-**Bachelor's Degree in Management**  
-*[University Name]* | [Year]
+**Master's Degree in Business Administration**  
+*National Taiwan University* | 2022
+
+**Bachelor's Degree in Business Administration**  
+*National Taiwan University* | 2020
 
 ---
 
 ## Professional Experience
 
 **Supply Chain Analyst**  
-*[Previous Company]* | [Duration]
+*HP* | 2 yrs
 - Conducted supply chain performance analysis and optimization
 - Developed reporting frameworks and business intelligence solutions
 - Collaborated with cross-functional teams to drive data-driven decisions
@@ -80,19 +75,8 @@ Data Analyst with **supply chain management background** and currently pursuing 
 
 📧 **Email:** candice.chang1029@gmail.com
 💼 **LinkedIn:** www.linkedin.com/in/candicechang1029
-🌍 **Location:** Taiwan  
+🌍 **Location:** Taipei, Taiwan  
 
 ---
 
-## Project Structure
-
-Each project folder contains:
-- `README.md` - Detailed project description and methodology
-- `notebooks/` - Jupyter notebooks with analysis code  
-- `data/` - Sample datasets (anonymized)
-- `visualizations/` - Charts, dashboards, and visual outputs
-- `docs/` - Additional documentation and presentations
-
----
-
-*Last Updated: 07/16/2025*
+*Last Updated: 07/17/2025*
