@@ -1,14 +1,14 @@
 # Strategic Supplier Classification Model
 *Data-Driven Supplier Segmentation and Risk Assessment*
 
-## 📋 Project Overview
+## Project Overview
 
 **Industry:** Fortune 500 Technology Hardware Manufacturing  
 **Duration:** December 2023 - March 2024  
 **Role:** Project Manager / Supply Chain Data Analyst  
 **Tools:** Python, Mathematical Modeling, Excel, Data Integration  
 
-# 🎯 Business Challenge
+# Business Challenge
 
 ### Problem Statement:
 - **Scale Challenge:** Classify and manage 1,000+ suppliers across multiple business units
@@ -22,7 +22,7 @@
 - Inconsistent supplier development and monitoring approaches
 - Difficulty in identifying critical supplier dependencies
 
-## 💡 Solution Design
+## Solution Design
 
 ### Objectives:
 1. **Standardized Classification:** Develop unified supplier segmentation methodology
@@ -36,7 +36,7 @@
 - **Data Integration:** Combine spend data, risk assessments, and relationship metrics
 - **Segmentation Framework:** Four-tier classification system with clear action plans
 
-## 📊 Methodology & Implementation
+## Methodology & Implementation
 
 ### 1. **Evaluation Criteria Framework**
 
@@ -97,7 +97,7 @@ Score = (BU_Impact/100) × (BU_Scale/3) × [
 - **Strategy:** Cost optimization, efficiency focus, e-procurement
 - **Management:** Automated processing, minimal touch
 
-## 📈 Results & Impact
+## Results & Impact
 
 ### Quantified Outcomes:
 - **1,000+ suppliers successfully classified** across all business units
@@ -120,7 +120,7 @@ Combined            7        16          26            2          3
 Total              42       100         337          624         17
 ```
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Data Sources Integration:
 - **Financial Systems:** Annual spend data, payment terms, cost trends
@@ -140,7 +140,7 @@ Total              42       100         337          624         17
 - **Business Logic Validation:** Alignment with strategic business objectives
 - **Continuous Improvement:** Quarterly review and methodology refinement
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 02_Strategic_Supplier_Classification/
@@ -156,10 +156,10 @@ Total              42       100         337          624         17
 ├── data_samples/
 │   ├── sample_supplier_data.csv     # Anonymized sample dataset
 └── presentations/
-    └── methodology_overview.pdf    # Executive summary presentation
+    └── Strategic_Supplier_Classification_Summary.pdf
 ```
 
-## 🎯 Key Learnings
+## Key Learnings
 
 ### Technical Skills Developed:
 - **Mathematical Modeling:** Multi-criteria decision analysis and weighted scoring
