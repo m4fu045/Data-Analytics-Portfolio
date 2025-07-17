@@ -4,16 +4,12 @@
 
 Data Analyst with **supply chain management background** and currently pursuing **Master's in Data Science at UC Berkeley**. Experienced in transforming business challenges into data-driven solutions, with expertise in **Python, Tableau, and business intelligence**.
 
----
-
 ## Technical Skills
 
 **Programming:** Python, R, SQL  
 **Visualization:** Tableau, Excel, Matplotlib, Seaborn  
 **Tools:** Jupyter Notebook, Git, Spotfire  
 **Domain Knowledge:** Supply Chain Analytics, Customer Analytics, Business Intelligence
-
----
 
 ## Featured Projects
 
@@ -44,8 +40,6 @@ Data Analyst with **supply chain management background** and currently pursuing 
 - **Impact:** Projected 300+ additional memberships, improved customer experience personalization
 - **Key Features:** Real-time monitoring, predictive alerts, omnichannel integration
 
----
-
 ## Education
 
 **Master of Information and Data Science**  
@@ -57,14 +51,10 @@ Data Analyst with **supply chain management background** and currently pursuing 
 **Bachelor's Degree in Business Administration**  
 *National Taiwan University* | 2020
 
----
-
 ## Contact
 
 - **Email:** candice.chang1029@gmail.com
 - **LinkedIn:** www.linkedin.com/in/candicechang1029
 - **Location:** Taipei, Taiwan  
-
----
 
 *Last Updated: 07/17/2025*
