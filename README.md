@@ -4,8 +4,6 @@
 
 Data Analyst with **supply chain management background** and currently pursuing **Master's in Data Science at UC Berkeley**. Experienced in transforming business challenges into data-driven solutions, with expertise in **Python, Tableau, and business intelligence**.
 
-**Currently seeking:** Data Analyst / Business Analyst / Data Scientist positions in Taiwan
-
 ---
 
 ## Technical Skills
@@ -61,21 +59,11 @@ Data Analyst with **supply chain management background** and currently pursuing 
 
 ---
 
-## Professional Experience
-
-**Supply Chain Analyst**  
-*HP* | 2 yrs
-- Conducted supply chain performance analysis and optimization
-- Developed reporting frameworks and business intelligence solutions
-- Collaborated with cross-functional teams to drive data-driven decisions
-
----
-
 ## Contact
 
-📧 **Email:** candice.chang1029@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/candicechang1029
-🌍 **Location:** Taipei, Taiwan  
+- **Email:** candice.chang1029@gmail.com
+- **LinkedIn:** www.linkedin.com/in/candicechang1029
+- **Location:** Taipei, Taiwan  
 
 ---
 
