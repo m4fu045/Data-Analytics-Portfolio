@@ -3,10 +3,10 @@
 
 ## Project Overview
 
-**Industry:** Fortune 500 Technology Hardware Manufacturing  
-**Duration:** December 2023 - March 2024  
-**Role:** Project Manager / Supply Chain Data Analyst  
-**Tools:** Python, Mathematical Modeling, Excel, Data Integration  
+- **Industry:** Leading PC and Printing Technology Company
+- **Duration:** December 2023 - March 2024
+- **Role:** Project Manager / Supply Chain Data Analyst
+- **Tools:** Python, Mathematical Modeling, Excel, Data Integration  
 
 # Business Challenge
 
