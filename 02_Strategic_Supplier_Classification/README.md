@@ -155,8 +155,7 @@ Total              42       100         337          624         17
 │   └── visualization_dashboard.py  # Results visualization
 ├── data_samples/
 │   ├── sample_supplier_data.csv     # Anonymized sample dataset
-└── presentations/
-    └── Strategic_Supplier_Classification_Summary.pdf
+└── Strategic_Supplier_Classification_Summary.pdf
 ```
 
 ## Key Learnings
